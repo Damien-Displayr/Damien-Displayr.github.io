@@ -1,0 +1,8 @@
+﻿Day,Index,Friday,Days till Friday,Begins with 'T',Char count
+Sunday,0,FALSE,5,FALSE,6
+Monday,1,FALSE,4,FALSE,6
+Tuesday,2,FALSE,3,TRUE,7
+Wednesday,3,FALSE,2,FALSE,9
+Thursday,4,FALSE,1,TRUE,8
+Friday,5,TRUE,0,FALSE,6
+Saturday,6,FALSE,6,FALSE,8
